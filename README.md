@@ -1,6 +1,8 @@
 # M5Stick Launcher
 Application Launcher for Cardputer, M5StickC, M5StickC Plus, and M5StickC Plus 2.
 
+Still not compiling due to an error relation to SD on SS pin.
+
 
 <p align="center" width="100%">
     <img src="https://github.com/bmorcelli/M5Stick-Launcher/blob/main/M5Launcher.png?raw=true">  <img src="https://github.com/bmorcelli/M5Stick-Launcher/blob/main/New Launcher.jpg?raw=true" width="240" height="135"> 
